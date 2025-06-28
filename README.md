@@ -1,1 +1,1 @@
-
+This repository showcases 📊 a collection of interactive Excel dashboards designed to analyze and visualize real-world datasets using Microsoft Excel. Each project includes a well-structured dashboard built with features such as 📈 Pivot Tables, 🎛️ Slicers, 📉 Charts, and 🎯 KPI Cards to uncover meaningful business insights.
